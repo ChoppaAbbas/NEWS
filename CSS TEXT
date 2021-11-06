@@ -1,0 +1,219 @@
+* {
+	margin: 100;
+	padding: 100;
+}
+.header{
+display: flex;
+background-color:red;
+width: 200px;
+height: 150px;
+left: 43px;
+top: 38px;
+}
+.navbar {
+width: 117px;
+height: 1080px;
+left: 0px;
+top: 0px;
+background: #C4C4C4;
+}
+.logo {
+	background-color:silver;
+	width:50;
+	height: 100;
+	background:url("../img/splnews.jpg"); 
+
+}
+.block {
+	background-color: red;
+	justify-content: space-between;
+}
+.par {
+	width: 100%;
+	height: 50px;
+	display:flex;
+    background: #DEB887;
+    justify-content: space-between;
+    font-family:FRANKLIN GOTHIC MEDIUM ;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 20px;
+color: #2F4F4F; 
+display: flex;
+
+}
+.content{
+	  width:100%;
+	  height: 300PX;
+    display:flex;
+    background: #DEB887;
+    justify-content: space-around;
+
+
+}
+.navbar-link {
+	position: relative;
+	top:50PX;
+}
+.navbar1 {
+	position: relative;
+	background-color: silver;
+	width: 100%;
+	height: 100px;
+}
+.block{
+	position: relative;
+	background-color: blue;
+	left: 109PX;
+}
+.football{
+	position: relative;
+	background-color:gold;
+	font-family:FRANKLIN GOTHIC MEDIUM ;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 20px;
+color: #2F4F4F; 
+display: flex;
+}
+.last {
+width: 100%;
+height: 250px;
+display: flex;
+justify-content: space-around;
+white-space: 20px;
+position: relative;
+background: #B0C4DE;
+	}
+.basketball {
+	display: flex;
+	background: #FA8072;
+	font-family: FRANKLIN GOTHIC MEDIUM;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 20px;
+color: #2F4F4F; 
+display: flex;
+}
+.b1 {
+	width: 100%;
+	height: 200px;
+	display: flex;
+	background: #7B68EE;
+	justify-content: space-around;
+}
+.one {
+	display: inline;
+}
+nav {
+  display:inline;
+  width: 100%;
+  height:50px;
+  background-color:#32CD32	;
+  float: right;
+}
+
+ul {
+  list-style: none; 
+  margin: 0; 
+  padding-left: 0; 
+  margin-top:10px; 
+}
+a {
+  text-decoration: none; 
+  background:#BDB76B; 
+  color:#696969; 
+  padding:10px;
+  font-family: SUPERFRENCH; 
+  border-radius:5px; 
+  -moz-transition: all 0.3s 0.01s ease; 
+  -o-transition: all 0.3s 0.01s ease;
+  -webkit-transition: all 0.3s 0.01s ease;
+}
+a:hover {
+  background:red;
+}
+li {
+  float:left; 
+  margin-right:20px; 
+  
+}
+.LOGO{
+	width: 100%;
+	height: 100px;
+	background:#DEB887;
+	font-size:20px;
+font-style:; 
+font-family: TEMPUS SANS ITC;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 20px;
+color: #008000; 
+display: flex;
+}
+
+.navbar1 {
+	font-style:; 
+font-family: FANTASY;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 20px;
+color: #2F4F4F; 
+display: flex;
+}
+
+.ufc {
+	display: flex;
+	background: #B8860B;
+	font-family: FRANKLIN GOTHIC MEDIUM;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 20px;
+color: #2F4F4F; 
+display: flex;
+}
+.MMA {width: 100%;
+	height: 200px;
+	display: flex;
+	background: #696969	;
+	justify-content: space-around;
+
+}
+.contacts{
+	width: 100%;
+	height: 75px;
+	background: #BDB76B	;
+	font-style: ROLAND;
+	font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 20px;
+color: #2F4F4F; 
+display: flex;
+}
+.search {
+	background:#32CD32; 
+	width: 175px;
+	height: 300px;
+}
+.economic{
+	width: 100%;
+	height: 150px;
+	background: #DEB887;
+	display: flex;
+	justify-content: space-between;
+	font-style: ROLAND;
+	font-style: normal;
+font-weight: bold;
+font-size: 5px;
+line-height: 20px;
+color: #2F4F4F; 
+display: flex;
+
+}
